@@ -47,7 +47,7 @@ Welcome to the DALL-E Clone project! This project is a recreation inspired by th
 ## Project Setup
 
 ```bash
-git clone https://github.com/ItsAnkitPatel/DALL-E.git
+
 ```
 
 Now install all packages inside client
